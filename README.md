@@ -11,6 +11,13 @@ The final step in this process is to take the saved AI image and apply the Fast 
 
 This project is developed as a proof of concept using open source libraries and packages, listed below, and has been implemented  in Google Colab. Updates to this project are expected to come as this idea evolves.
 
+
+ORDER OF EXECUTION:
+
+1. VQGAN+CLIP_Bert_Extractive_Summarizer_Implementation.ipynb
+2. Fast_Style_Transfer_THub.ipynb
+
+
 RESOURCES:
 
 Bert Extractive Summarizer:
