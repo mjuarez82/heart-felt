@@ -1,5 +1,6 @@
 # heart-felt
 By: Michelle Juárez 
+
 AI-generated art project for a major celebrity...
 
 The purpose of this project is to produce AI art to reflect a user's most heartfelt emotion for the purpose of healing. The method by which this is accomplished is by first taking in about a paragraph's worth of text input from the user describing the memory/emotion. Next, that input is processed using a Bert Extractive Summarizer to summarize the input to a percentage of the original, providing us with enough key words and terms to provide as input for the next step.
