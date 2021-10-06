@@ -1,13 +1,13 @@
 # heart-felt
 By: Michelle Juárez 
 
-AI-generated art project for a major celebrity...
+AI-generated art project...
 
 The purpose of this project is to produce AI art to reflect a user's most heartfelt emotion for the purpose of healing. The method by which this is accomplished is by first taking in about a paragraph's worth of text input from the user describing the memory/emotion. Next, that input is processed using a Bert Extractive Summarizer to summarize the input to a percentage of the original, providing us with enough key words and terms to provide as input for the next step.
 
 Next, the summarized text is used as the input to generate a piece of AI art using the VQGAN+CLIP algorithm. The AI-generated image is then saved for the next step.
 
-The final step in this process is to take the saved AI image and apply the Fast Style Transfer algorithm to the AI image using an example of the major celebrity's art as the style reference.
+The final step in this process is to take the saved AI image and apply the Fast Style Transfer algorithm to the AI image using an example of a piece of art as the style reference.
 
 This project is developed as a proof of concept using open source libraries and packages, listed below, and has been implemented  in Google Colab. Updates to this project are expected to come as this idea evolves.
 
