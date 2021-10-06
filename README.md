@@ -14,10 +14,12 @@ This project is developed as a proof of concept using open source libraries and 
 RESOURCES:
 
 Bert Extractive Summarizer:
+
 Website: https://opensourcelibs.com/lib/bert-extractive-summarizer
 GitHub: https://github.com/dmmiller612/bert-extractive-summarizer
 
 VQGAN+CLIP:
+
 Licensed under the MIT License
 Copyright (c) 2021 Katherine Crowson
 
@@ -40,6 +42,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 Fast Style Transfer:
+
 Licensed under the Apache License, Version 2.0 (the "License");
 You may not use this file except in compliance with the License.
 You may obtain a copy of the License at
