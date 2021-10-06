@@ -16,6 +16,7 @@ RESOURCES:
 Bert Extractive Summarizer:
 
 Website: https://opensourcelibs.com/lib/bert-extractive-summarizer
+
 GitHub: https://github.com/dmmiller612/bert-extractive-summarizer
 
 VQGAN+CLIP:
